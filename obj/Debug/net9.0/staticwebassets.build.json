@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "nsEJdMOHnTPUeqwCQDw5rN3CtJefhuCAa07yt2nOuec=",
+  "Source": "PayLink",
+  "BasePath": "_content/PayLink",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
