@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PayLink")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51779e4b91e9a160132b96e68f93edecd748e575")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5162189912aafdbf1e2e18322e76070c24ed6e9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PayLink")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PayLink")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

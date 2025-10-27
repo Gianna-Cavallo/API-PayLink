@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\star-\\OneDrive - uap.edu.ar\\Escritorio\\UAP\\2DO_AÑO\\2do Cuatrimeste\\Programacion II\\PayLink\\PayLink.csproj": {}
+    "C:\\SegundoCuatri\\ProgramacionII\\TpFinal\\API-PayLink\\PayLink.csproj": {}
   },
   "projects": {
-    "C:\\Users\\star-\\OneDrive - uap.edu.ar\\Escritorio\\UAP\\2DO_AÑO\\2do Cuatrimeste\\Programacion II\\PayLink\\PayLink.csproj": {
+    "C:\\SegundoCuatri\\ProgramacionII\\TpFinal\\API-PayLink\\PayLink.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\star-\\OneDrive - uap.edu.ar\\Escritorio\\UAP\\2DO_AÑO\\2do Cuatrimeste\\Programacion II\\PayLink\\PayLink.csproj",
+        "projectUniqueName": "C:\\SegundoCuatri\\ProgramacionII\\TpFinal\\API-PayLink\\PayLink.csproj",
         "projectName": "PayLink",
-        "projectPath": "C:\\Users\\star-\\OneDrive - uap.edu.ar\\Escritorio\\UAP\\2DO_AÑO\\2do Cuatrimeste\\Programacion II\\PayLink\\PayLink.csproj",
-        "packagesPath": "C:\\Users\\star-\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\star-\\OneDrive - uap.edu.ar\\Escritorio\\UAP\\2DO_AÑO\\2do Cuatrimeste\\Programacion II\\PayLink\\obj\\",
+        "projectPath": "C:\\SegundoCuatri\\ProgramacionII\\TpFinal\\API-PayLink\\PayLink.csproj",
+        "packagesPath": "C:\\Users\\causs\\.nuget\\packages\\",
+        "outputPath": "C:\\SegundoCuatri\\ProgramacionII\\TpFinal\\API-PayLink\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\star-\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\causs\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

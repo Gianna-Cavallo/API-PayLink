@@ -8,10 +8,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+/*builder.Services.AddDbContext<PayLinkDbContext>(options =>
+    options.UseInMemoryDatabase("PayLinkDB"));*/
+
 builder.Services.AddDbContext<PayLinkDbContext>(options =>
-    options.UseInMemoryDatabase("PayLinkDB"));
-
-
+    options.UseSqlServer(connectionString));
+    
 var app = builder.Build();
 
 // Configure the HTTP request pipeline
